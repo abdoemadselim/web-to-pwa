@@ -1,9 +1,8 @@
 const staticCache = "static-cache-v1";
 const assets = [
-    "/index.html",
+    "/",
     "/index.js",
     "/manifest.json",
-    "https://react.dev/"
 ]
 
 self.addEventListener("install", (event) => {
