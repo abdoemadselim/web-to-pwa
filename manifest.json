@@ -1,0 +1,17 @@
+{
+    "name": "react",
+    "short_name":"react",
+    "description": "A web app for React pwa",
+    "background_color": "#FFE9D2",
+    "display": "standalone",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "start_url": "./index.html",
+    "icons": [
+        {
+            "src": "./react144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+    ]
+}
